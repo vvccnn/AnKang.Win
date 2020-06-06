@@ -1,4 +1,11 @@
-_site
-.sass-cache
-Gemfile.lock
-*.gem
+.DS_Store
+.idea/
+*.log
+*.iml
+yarn.lock
+package-lock.json
+node_modules/
+.cache
+
+# Setting
+_config.yml
